@@ -4,7 +4,7 @@ Tenzies is a simple web-based dice game where the objective is to roll dice unti
 
 ## Live Demo
 
-You can access the live demo of this project [here](url).
+You can access the live demo of this project [here](https://shantanupawar77.github.io/Tenzies_Dice_Game/).
 
 ## How to Play
 
@@ -23,6 +23,7 @@ You can access the live demo of this project [here](url).
 
 - React.js
 - CSS
+- HTML
 
 ## How to Run Locally
 
