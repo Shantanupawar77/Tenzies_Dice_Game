@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tenzies_Dice_Game/static/css/main.c27add56.css",
+    "main.js": "/Tenzies_Dice_Game/static/js/main.8d12a58b.js",
+    "static/js/453.4040e399.chunk.js": "/Tenzies_Dice_Game/static/js/453.4040e399.chunk.js",
+    "index.html": "/Tenzies_Dice_Game/index.html",
+    "main.c27add56.css.map": "/Tenzies_Dice_Game/static/css/main.c27add56.css.map",
+    "main.8d12a58b.js.map": "/Tenzies_Dice_Game/static/js/main.8d12a58b.js.map",
+    "453.4040e399.chunk.js.map": "/Tenzies_Dice_Game/static/js/453.4040e399.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c27add56.css",
+    "static/js/main.8d12a58b.js"
+  ]
+}
