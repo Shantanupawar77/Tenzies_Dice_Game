@@ -37,7 +37,7 @@ To run this project locally, follow these steps:
 
 ## Author
 
-- [Your Name](https://github.com/yourusername)
+- [Shantanu Pawar](https://github.com/Shantanupawar77)
 
 Feel free to contribute to this project by submitting issues or pull requests.
 
